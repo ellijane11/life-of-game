@@ -1,4 +1,5 @@
 CELLULAR AUTOMATA
+
 . O .
 . . O
 O O O
