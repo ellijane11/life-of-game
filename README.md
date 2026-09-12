@@ -1,5 +1,5 @@
 CELLULAR AUTOMATA
-
+<pre>
 . O .
 . . O
 O O O
@@ -18,3 +18,4 @@ OO........O...O.OO....O.O...........
 . O .
 . . O
 O O O
+</pre>
